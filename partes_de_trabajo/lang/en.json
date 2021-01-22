@@ -1,0 +1,104 @@
+{
+    "add_data": "Insert the data correctly",
+    "user_exist": "User with the indicated company name or email already exists, please choose another one!",
+    "reg": "Register",
+    "company_name": "Company Name",
+    "email": "Email",
+    "password": "Password",
+    "have": "Already have an account? Enter",
+    "legenda": "Only the manager-administrator of the application needs to register, those with more profiles are created from this",
+    "info": "More info",
+
+    "admin": "Administrator",
+    "exit": "Successfully registered",
+    "enter": "Enter",
+    "no_user": "User not found",
+    "manager": "Manager",
+    "worker": "Worker",
+    "no_have": "Don't have an account yet? Register at",
+
+    "app_name": "Working Time Accounting",
+    "object_work": "Works - projects",
+    "loading": "Loading...",
+    "dont_have_work": "Still no work",
+    "hours": "hours",
+    "cancel": "Cancel",
+    "canceled": "Canceled",
+    "delete": "Delete",
+    "deleted": "Deleted",
+    "dont_deleted": "Not deleted, the name is not correct",
+    "insert_name": "Insert the name of the work",
+    "for_delete": "to remove",
+    "name_work": "Name of the work",
+
+    "lang": "en",
+    "new_work": "Create new project-work",
+    "address": "Address",
+    "value": "Budget",
+    "work_added": "New work created and saved",
+    "error": "An error has occurred",
+    "save": "Save",
+    "par_tes": "Parts",
+    "hor_as": "Hours",
+
+    "boss": "Admin",
+    "dont_deleted_date": "Not deleted, the date is not correct",
+    "insert_date": "Insert the date of the part",
+    "new_part": "Create new working part",
+    "set_date": "Select date",
+    "hour": "Hours",
+    "material": "Used material",
+    "work_released": "The work done",
+    "new_part_created": "Nuevo parte creado y guardado",
+
+    "managers": "Managers",
+    "workers": "Workers",
+    "web_version": "Web version",
+    "autor": "Author",
+
+    "dont_have_managers": "You don't have any managers created yet",
+    "data_users": "User data",
+    "role_manager": "Role: Manager",
+    "name_m": "Name: ",
+    "email_m": "Email: ",
+    "password_m": "Password: ",
+    "dont_name": "Not deleted, the name is not correct",
+    "insert_manager_name": "Insert the name of the manager",
+    "create_manager": "Create a Manager",
+    "name": "Name",
+    "manager_added": "New Manager created and saved",
+    "name_manager": "The manager name",
+
+    "dont_workers": "No workers created yet",
+    "data_worker": "Role: Worker",
+    "insert_name_work": "Insert worker's name",
+    "name_worker": "Worker's name",
+    "create_worker": "Create a Worker",
+    "created_worker": "New Worker created and saved",
+    "dont_works": "No works yet"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

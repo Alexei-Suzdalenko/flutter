@@ -1,0 +1,4 @@
+1. copy  key.properties
+2. copy app/src/build.gradle
+   flutter build apk
+

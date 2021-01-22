@@ -1,0 +1,101 @@
+{
+    "add_data": "Rellene los datos correctamente",
+    "user_exist": "¡Usuario con el nombre de la empresa o email indicado ya existe, elige otro por favor!",
+    "reg": "Registrarse",
+    "company_name": "Nombre de la Empresa",
+    "email": "Email",
+    "password": "Contraseña",
+    "have": "¿Ya tienes una cuenta? Entrar",
+    "legenda": "Únicamente necesita registrarse el Gerente-administrador de la aplicación, los de más perfiles se crean a partir de este",
+    "info": "Más info",
+
+    "admin": "Gerente-administrador",
+    "exit": "Registrado con éxito",
+    "enter": "Entrar",
+    "no_user": "Usuario no encontrado",
+    "manager": "Encargado",
+    "worker": "Trabajador",
+    "no_have": "¿Aún no tienes cuenta? Registrate",
+
+    "app_name": "Partes de Trabajo",
+    "object_work": "Obras - proyectos",
+    "loading": "Cargando...",
+    "dont_have_work": "Aún no tiene obras",
+    "hours": "horas",
+    "cancel": "Cancelar",
+    "canceled": "Cancelado",
+    "delete": "Eliminar",
+    "deleted": "Eliminado",
+    "dont_deleted": "No eliminado, el nombre no es correcto",
+    "insert_name": "Insertar el nombre de la obra",
+    "for_delete": "para eliminar",
+    "name_work": "Nombre de la obra",
+
+    "lang": "es",
+    "new_work": "Crear nuevo proyecto-obra",
+    "address": "Dirección",
+    "value": "Presupuesto",
+    "work_added": "Nueva obra creada y guardada",
+    "error": "A ocurrido algun error",
+    "save": "Guardar",
+    "par_tes": "Partes",
+    "hor_as": "Horas",
+
+    "boss": "Gerente",
+    "dont_deleted_date": "No eliminado, la fecha no es correcta",
+    "insert_date": "Insertar la fecha del parte",
+    "new_part": "Crear nuevo parte de trabajo",
+    "set_date": "Seleccionar fecha",
+    "hour": "Horas",
+    "material": "Material usado",
+    "work_released": "El trabajo realizado",
+    "new_part_created": "Nuevo parte creado y guardado",
+
+    "managers": "Encargados",
+    "workers": "Trabajadores",
+    "web_version": "Versión web",
+    "autor": "Autor",
+
+    "dont_have_managers": "Aún no tiene Encargados creados",
+    "data_users": "Datos de usuario app Partes de Trabajo",
+    "role_manager": "Papel: Encargado",
+    "name_m": "Nombre: ",
+    "email_m": "Email: ",
+    "password_m": "Contraseña: ",
+    "dont_name": "No eliminado, el nombre no es correcto",
+    "insert_manager_name": "Insertar el nombre del encargado",
+    "create_manager": "Crear un Encargado",
+    "name": "Nombre",
+    "manager_added": "Nuevo Encardado creado y guardado",
+    "name_manager": "Nombre del encargado",
+
+    "dont_workers": "Aún no tiene Trabajadores creados",
+    "data_worker": "Papel: Trabajador",
+    "insert_name_work": "Insertar el nombre del trabajador",
+    "name_worker": "Nombre del trabajador",
+    "create_worker": "Crear un Trabajador",
+    "created_worker": "Nuevo Trabajador creado y guardado",
+    "dont_works": "Aún no tiene obras",
+    "for_delete"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
